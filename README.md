@@ -10,4 +10,4 @@
 
 ### Acesse [Game Shop](https://site-game-shop-rouge.vercel.app/)
 
-<img src="./site completo.png" atl="Site da game shop">
+<img src="./images/site completo.png" atl="Site da game shop">
