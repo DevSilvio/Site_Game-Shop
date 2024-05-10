@@ -42,7 +42,7 @@ header nav li a {
 header .container,
 section .container {
     display: flex; /*deixar conteudo lado a lado*/
-    align-items: center;
+    align-items: center; /*centralizar o o conteudo do site na vertical*/
     justify-content: space-between;
 }
 
